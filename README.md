@@ -1,0 +1,1 @@
+# ps-aspnet6-cleanarquitecture-globoticket
